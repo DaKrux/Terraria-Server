@@ -1,0 +1,15 @@
+world=/srv/terraria/Worlds/MyWorld.wld
+autocreate=1
+worldname=DockerWorld
+worldpath=/srv/terraria/Worlds
+password=cisco123
+motd=I Run in Docker!
+maxplayers=32
+difficulty=1
+port=7777
+banlist=banlist.txt
+secure=1
+lang=1
+upnp=1
+npcstream=60
+priority=1

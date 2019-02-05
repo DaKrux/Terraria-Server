@@ -1,0 +1,6 @@
+version: '3'
+services:
+  Terraria:
+    image: "terrariaserverkruvin:latest"
+    ports:
+     - "7777:7777"
